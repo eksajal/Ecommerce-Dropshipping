@@ -1,4 +1,4 @@
-🛒 eCommerce & Dropshipping Platform
+🛒 # eCommerce & Dropshipping Platform
 Welcome to the eCommerce and Dropshipping Platform! This project is a comprehensive web application designed to simplify the online shopping experience for users and streamline product management for resellers. Built with Laravel, this platform combines powerful features with an intuitive interface to help you launch your online business effortlessly.
 
 🚀 Key Features
